@@ -6,3 +6,6 @@ Aplicación de consola en Java para practicar Git y GitHub.
 - Git
 ## Ejecución
 Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
+
+
+Mejora del readme
